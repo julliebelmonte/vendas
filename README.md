@@ -1,6 +1,6 @@
-# 📦 Case XVendas — Análise de Rentabilidade
+# 📦 Case Vendas — Análise de Rentabilidade
 
-> **Pergunta de negócio:** *"No último ano, o XVendas apresentou perda gradual na rentabilidade. O volume de vendas permaneceu estável. O que pode ser a causa?"*
+> **Pergunta de negócio:** *"No último ano, a empresa apresentou perda gradual na rentabilidade. O volume de vendas permaneceu estável. O que pode ser a causa?"*
 
 ---
 
